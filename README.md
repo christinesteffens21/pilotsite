@@ -1,2 +1,0 @@
-# pilotsite
-Pilotsite
